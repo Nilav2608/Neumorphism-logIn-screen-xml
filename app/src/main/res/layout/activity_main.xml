@@ -94,7 +94,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:padding="12dp"
-                android:hint="Email addrerss"
+                android:hint="Email address"
                 android:inputType="textEmailAddress"
                 android:textCursorDrawable="@color/text_color"
                 android:background="@drawable/no_background">
