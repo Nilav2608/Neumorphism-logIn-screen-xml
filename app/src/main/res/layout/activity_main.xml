@@ -129,6 +129,7 @@
         </soup.neumorphism.NeumorphCardView>
 
         <soup.neumorphism.NeumorphButton
+            android:id="@+id/signup_btn"
             style="@style/Widget.Neumorph.Button"
             android:layout_width="200dp"
             android:layout_height="wrap_content"
